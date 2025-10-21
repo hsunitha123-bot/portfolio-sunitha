@@ -21,7 +21,7 @@ I love building responsive, real-world applications and exploring **AI & ML** te
 ## 📫 Contact
 📧 **Email:** [h.sunithasunithal23@gmail.com](mailto:h.sunithasunithal23@gmail.com)  
 📍 **Location:** Kurnool, Andhra Pradesh  
-🌎 **Portfolio:** [https://sunitha-h.github.io](https://sunitha-h.github.io)  
+  
 
 ---
 > 🚀 “Building smart web apps and exploring the power of AI.”
