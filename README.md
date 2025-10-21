@@ -2,7 +2,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m **web designer** a passionate and detail-oriented **emerging technology and software developer** skilled in **Java, Python,Full Stack Development**.  
+I’m a **web designer** passionate and detail-oriented **emerging technology and software developer** skilled in **Java, Python,Full Stack Development**.  
 I love building responsive, real-world applications and exploring **AI & ML** technologies.
 
 - ☁️ **Primary Focus:** Google Cloud Platform (GCP)—designing scalable and secure architectures.
